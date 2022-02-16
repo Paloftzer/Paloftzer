@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Paloftzer
+### Hi there 👋 I'm Paloftzer, I'm 17 years old
 - 👀 I’m interested in learning how to code better
 - 🔭 I’m currently working on our company website! https://github.com/Paloftzer/Computer-Cube-Website
 - 🌱 I’m currently learning Python, C# and HTML5!
