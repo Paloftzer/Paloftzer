@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python, C# and HTML5!
 - 💬 Ask me about anything! I'm open to chat with everyone and learn anything
 - 📫 How to reach me: DM me on discord: Professional Sleeper#3054
-- ⚡ Fun fact: I hate @Smorwin
+- ⚡ Fun fact: I partly hate @Smorwin
 <!--
 **Paloftzer/Paloftzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
