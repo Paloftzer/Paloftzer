@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Paloftzer, I'm 20 years old
+### Hi there 👋 I'm Paloftzer, I'm 21 years old
 - 👀 I’m interested in learning how to code better
 - 🔭 I’m currently studying Software Development with a focus on security
 - 🌱 I’m currently learning Python, C#!
